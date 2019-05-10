@@ -1,4 +1,5 @@
 # Persian-Romanisation-And-Transliteration
+تبدیل فارسی به انگلیسی و برعکس
 Romanise farsi words to phinglish & transliterate phinglish words to farsi; All in one!
 Just input the words you want to Romanise/Transliterate, it will automatically get the desired info online and save the results in a file.
 
